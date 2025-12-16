@@ -1,6 +1,6 @@
 name: build java Application
 on:
-push:
+ push:
 jobs:
  builddeployjob:
   runs-on: ubuntu-latest
